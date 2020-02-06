@@ -26,7 +26,7 @@
 .col-1{
   width: 31%;
   float: left ;
-
+  
 }
 .col-2 {
   width: 64%;
@@ -34,5 +34,6 @@
 }
 [class*="col"]{
   margin-left: 2%;
+  margin-bottom: 2%;
 }
 /* Positioning Classes */
